@@ -35,4 +35,4 @@ import { HomeComponent } from './home';
     ],
     bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule { } 
